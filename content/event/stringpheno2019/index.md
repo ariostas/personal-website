@@ -42,7 +42,7 @@ image:
 url_code: ''
 url_pdf: ''
 url_slides: "/static/slides/stringpheno2019.pdf"
-url_video: #https://cds.cern.ch/record/2681999
+url_video: https://cds.cern.ch/record/2681999
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
