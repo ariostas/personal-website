@@ -2,9 +2,9 @@
 title: "CYTools: A Software Package for Analyzing Calabi-Yau Manifolds"
 authors:
 - Mehmet Demirtas
-- Liam McAllister
 - admin
-date: "2022-11-15T00:00:00Z"
+- Liam McAllister
+date: "2022-11-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "To appear."
+abstract: " We provide a user's guide to version 1.0 of the software package CYTools, which we designed to compute the topological data of Calabi-Yau hypersurfaces in toric varieties. CYTools has strong capabilities in analyzing and triangulating polytopes, and can easily handle even the largest polytopes in the Kreuzer-Skarke list. We explain the main functions and the options that can be used to optimize them, including example computations that illustrate efficient handling of large numbers of polytopes. The software, installation instructions, and a Jupyter notebook tutorial can be found at https://cy.tools."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -33,12 +33,12 @@ tags:
 featured: true
 
 links:
-# - name: INSPIRE
-#   url: https://inspirehep.net/literature/1888754
-# - name: ArXiv
-#   url: https://arxiv.org/abs/2107.09064
-url_pdf: ''
-url_code: ''
+- name: INSPIRE
+  url: https://inspirehep.net/literature/2178107
+- name: ArXiv
+  url: https://arxiv.org/abs/2211.03823
+url_pdf: 'https://arxiv.org/pdf/2211.03823'
+url_code: 'https://github.com/LiamMcAllisterGroup/cytools'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -58,7 +58,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+  - cytools
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

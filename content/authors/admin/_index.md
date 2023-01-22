@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Andres Rios Tascon
+title: Andres Rios-Tascon
 
 # Full name (for SEO)
 first_name: Andres
-last_name: Rios Tascon
+last_name: Rios-Tascon
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: "String Theorist | Algebraic Geometer | Computer Scientist"
+role: "Theoretical Physicist <br> Computational Scientist"
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,16 +18,15 @@ organizations:
     url: https://www.cornell.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Andres is a PhD student working on String Theory at Cornell University.
+bio: Andres is a PhD candidate working on String Theory at Cornell University.
 
 # Interests to show in About widget
 interests:
-  - String Theory
-  - Quantum Gravity
-  - Cosmology
-  - Algebraic Geometry
+  - Software Development
   - Machine Learning
-  - Scientific Computing
+  - Problem Solving
+  - Data Analysis
+  - Technology
 
 # Education to show in About widget
 education:
@@ -35,7 +34,7 @@ education:
     - course: PhD in Theoretical Physics
       institution: Cornell University
       year: 2017 - Present
-    - course: BSc in Physics and Mathematics
+    - course: BS in Physics and Mathematics
       institution: Massachusetts Institute of Technology
       year: 2017
 
@@ -83,6 +82,6 @@ email: ''
 highlight_name: true
 ---
 
-My name is Andres Rios Tascon, and I am a graduate student pursuing a PhD in Physics at Cornell University under the supervision of Liam McAllister. My current research revolves around exploring compactifications of String Theory using computational algebraic geometry. I have developed powerful new tools to perform computations exponentially faster than with previously available software. I am the co-creator of CYTools; a package that makes my computational advancements available to the String Theory community. I am interested in a variety of topics ranging from constructing realistic string compactifications, to using machine learning methods to explore the string landscape.
+I am a theoretical physicist and computational scientist who will soon graduate with a PhD in Physics from Cornell University. My work in graduate school has revolved around exploring solutions of String Theory using computational algebraic geometry. I have developed powerful new algorithms to perform computations exponentially faster than with existing mathematical software. All of these advancements are now available in the open-source package CYTools, which I created in an effort to drive progress in the field. This package has allowed unprecedentely complex constructions and is now being used by multiple groups around the world.
 
-In the past, I have worked on optimizing numerical techniques in Lattice QCD used to study properties of hadrons, and also on exploring possible measurements of Higgs couplings at future particle colliders.
+I am now seeking to leverage my expertise in a new field. I am interested in solving difficult problems and tackling the biggest computational challenges. My Physics and Mathematics background allows me to have a deep understanding of the underlying data and exploit mathematical structures to engineer exceptional algorithms. I hope to continue making outstanding computational contributions as I did in String Theory.

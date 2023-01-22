@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Research Experience
+title: Experience
 subtitle:
 
 # Date format for experience
@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: "Graduate Researcher (Advisor: Liam McAllister)"
+  - title: "PhD Researcher"
     company: Cornell Theoretical Particle Physics Group
     company_url: ''
     company_logo: cornell_seal
@@ -30,15 +30,15 @@ experience:
     date_start: '2018-08-01'
     date_end: ''
     description: >
-      - Studying the landscape of compactifications of String Theory.
+      - Studied string theory using computational algebraic geometry.
 
-      - Developing novel algorithms in computational geometry and machine learning to efficiently study Calabi-Yau manifolds and compactifications.
+      - Developed powerful algorithms that exponentially outperform previous mathematical software in key computations.
 
-      - Lead developer of CYTools, a purpose-built open-source package that allows anyone to easily perform computations exponentially faster than with generic mathematical software.
+      - Created CYTools, an open-source package that makes my computational advancements available to the string theory community.
 
-      - Applying computational tools to the construction of explicit realistic models in string theory.
+      - Devised machine learning techniques to explore solutions of string theory.
 
-  - title: "Undergraduate researcher (Advisor: William Detmold)"
+  - title: "Undergraduate Researcher"
     company: MIT Center for Theoretical Physics
     company_url: ''
     company_logo: mit_logo
@@ -46,11 +46,11 @@ experience:
     date_start: '2016-05-01'
     date_end: '2017-06-01'
     description: >
-      - Studied a novel technique to reduce the statistical noise in the computation of 3-point functions in Lattice QCD, facilitating more accurate studies of hadron structure.
+      - Expanded novel algorithms to reduce inherent statistical noise in QCD simulations.
 
-      - Explored new methods to store ensembles of gauge field configurations more efficiently, with the aim of reducing the large storage requirements necessary for precision Lattice QCD computations.
+      - Developed methods to improve storage efficiency of large datasets of lattice fields.
 
-  - title: "Undergraduate researcher (Advisor: Markus Klute)"
+  - title: "Undergraduate Researcher"
     company: MIT Laboratory for Nuclear Science
     company_url: ''
     company_logo: mit_logo
@@ -58,11 +58,11 @@ experience:
     date_start: '2014-01-01'
     date_end: '2016-05-01'
     description: >
-      - Assessed prospects for measuring the trilinear Higgs self-coupling constant at the Phase II of the LHC running at $\\sqrt{s}$ = 14 TeV.
+      - Assessed prospects for future studies of the Higgs boson at particle colliders.
 
-      - Evaluated prospects for measuring the CP phase in the $h\\tau\\tau$ coupling at future $e^-e^+$ colliders and studied the use of novel statistical methods that could offer higher sensitivity.
+      - Simulated and analyzed particle collisions to devise efficient algorithms to perform accurate measurements.
 
-      - Evaluated and improved methods for searches for charged Higgs bosons at Phase I of the LHC at $\\sqrt{s}$ = 13 TeV.
+      - Used novel statistical methods to detect subtle deviations from distributions.
 
 design:
   columns: '2'
