@@ -28,10 +28,10 @@ content:
   email: contact@ariostas.com
   phone: (617) 682-0496
   address:
-    street: Physical Sciences Building, Cornell University
-    city: Ithaca
-    region: NY
-    postcode: '14850'
+    street: 228 Alexander Street
+    city: Princeton
+    region: NJ
+    postcode: '08540'
     country: United States
     country_code: US
   # coordinates:

@@ -6,7 +6,7 @@ authors:
 - Liam McAllister
 - Jakob Moritz
 - admin
-date: "2022-12-15T00:00:00Z"
+date: "2023-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +22,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "To appear."
+abstract: "We present an efficient algorithm for computing the prepotential in compactifications of type II string theory on mirror pairs of Calabi-Yau threefolds in toric varieties. Applying this method, we exhibit the first systematic computation of genus-zero Gopakumar-Vafa invariants in compact threefolds with many moduli, including examples with up to 491 vector multiplets."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,11 +34,11 @@ tags:
 featured: true
 
 links:
-# - name: INSPIRE
-#   url: https://inspirehep.net/literature/1888754
-# - name: ArXiv
-#   url: https://arxiv.org/abs/2107.09064
-url_pdf: ''
+- name: INSPIRE
+  url: https://inspirehep.net/literature/2637942
+- name: ArXiv
+  url: https://arxiv.org/abs/2303.00757
+url_pdf: 'https://arxiv.org/pdf/2303.00757'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -10,30 +10,28 @@ last_name: Rios-Tascon
 superuser: true
 
 # Role/position/tagline
-role: "Theoretical Physicist <br> Computational Scientist"
+role: "Research Software Engineer"
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Cornell University
-    url: https://www.cornell.edu/
+  - name: Princeton University
+    url: https://www.princeton.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Andres is a PhD candidate working on String Theory at Cornell University.
+bio: Andres is a Research Software Engineer at Princeton University.
 
 # Interests to show in About widget
 interests:
   - Software Development
-  - Machine Learning
+  - Scientific Computing
   - Problem Solving
-  - Data Analysis
-  - Technology
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Theoretical Physics
       institution: Cornell University
-      year: 2017 - Present
+      year: 2023
     - course: BS in Physics and Mathematics
       institution: Massachusetts Institute of Technology
       year: 2017
@@ -82,6 +80,4 @@ email: ''
 highlight_name: true
 ---
 
-I am a theoretical physicist and computational scientist who will soon graduate with a PhD in Physics from Cornell University. My work in graduate school has revolved around exploring solutions of String Theory using computational algebraic geometry. I have developed powerful new algorithms to perform computations exponentially faster than with existing mathematical software. All of these advancements are now available in the open-source package CYTools, which I created in an effort to drive progress in the field. This package has allowed unprecedentedly complex constructions and is now being used by multiple groups around the world.
-
-I am now seeking to leverage my expertise in a new field. I am interested in solving difficult problems and tackling the biggest computational challenges. My Physics and Mathematics background allows me to have a deep understanding of the underlying data and exploit mathematical structures to engineer exceptional algorithms. I hope to continue making outstanding computational contributions as I did in String Theory.
+I am a Research Software Engineer at Princeton University, working with the Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP). I focus on developing tools needed to tackle the challenges posed by the high volume and complexity of the data that will be collected at the High Luminosity Large Hadron Collider (HL-LHC) at CERN and other future HEP experiments.

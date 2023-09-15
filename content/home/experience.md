@@ -22,13 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: "Research Software Engineer"
+    company: Princeton University
+    company_url: ''
+    company_logo: princeton_seal
+    location: Princeton, NJ
+    date_start: '2023-08-07'
+    date_end: ''
+    description: >
+      - Developing tools needed to tackle the challenges posed by the high volume and complexity of the data that will be collected in future High Energy Physics experiments.
+
   - title: "PhD Researcher"
     company: Cornell Theoretical Particle Physics Group
     company_url: ''
     company_logo: cornell_seal
     location: Ithaca, NY
     date_start: '2018-08-01'
-    date_end: ''
+    date_end: '2023-05-27'
     description: >
       - Studied string theory using computational algebraic geometry.
 

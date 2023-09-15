@@ -18,7 +18,7 @@ design:
 
 I have been a Teaching Assistant (TA) for the following courses:
 
-- Electronic Circuits - Fall 2022.
+- Electronic Circuits - Fall 2022, Spring 2023.
 - Waves and Thermal Physics - Spring 2020.
 - Interfacing the Digital Domain with an Analog World - Fall 2019.
 - Oscillations, Waves, and Quantum Physics - Fall 2018, Spring 2019.
