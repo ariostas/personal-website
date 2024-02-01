@@ -1,10 +1,6 @@
 version: 2
 updates:
   - package-ecosystem: "github-actions"
-    directory: "/standalone"
-    schedule:
-      interval: "weekly"
-  - package-ecosystem: "github-actions"
-    directory: "/cmssw"
+    directory: "/"
     schedule:
       interval: "weekly"
