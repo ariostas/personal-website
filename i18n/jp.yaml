@@ -1,0 +1,61 @@
+## Meta tags
+- id: "meta_title"
+  translation: "リオスタスコン・アンドレス"
+- id: "meta_description"
+  translation: ""
+- id: "meta_keywords"
+  translation: "andres, rios, tascon, personal website, rse"
+- id: "meta_author"
+  translation: "リオスタスコン・アンドレス"
+- id: "meta_image"
+  translation: ""
+
+## Header
+- id: "logo_alt"
+  translation: "リオスタスコン・アンドレス"
+- id: "logo_text1"
+  translation: "リオスタスコン"
+- id: "logo_text2"
+  translation: "アンドレス"
+
+## General
+- id: "skipToMainContent"
+  translation: "メインコンテンツにスキップ"
+- id: "toggle_navigation"
+  translation: "ナビゲーション切り替え"
+
+## Footer
+- id: "footer_notice"
+  translation: "© リオスタスコン・アンドレス"
+- id: "language"
+  translation: "言語"
+- id: "toggle_theme"
+  translation: "テーマ切り替え"
+- id: "theme_light"
+  translation: "☀️ ライト"
+- id: "theme_dark"
+  translation: "🌑 ダーク"
+- id: "theme_auto"
+  translation: "✨ 自動"
+
+## Homepage head title
+- id: "head_title"
+  translation: "リオスタスコン・アンドレス"
+- id: "head_description"
+  translation: "リオスタスコン・アンドレス"
+
+## Blog
+- id: "read_more"
+  translation: "続きを読む"
+- id: "published_on"
+  translation: "投稿日 "
+- id: "continue_reading"
+  translation: "続きを読む"
+
+## 404 Page
+- id: "404_title"
+  translation: "ページが見つかりません"
+- id: "404_description"
+  translation: "申し訳ありませんが、お探しのページは見つかりませんでした。"
+- id: "404_button"
+  translation: "ホームに戻る"

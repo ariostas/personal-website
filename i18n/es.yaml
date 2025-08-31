@@ -1,0 +1,61 @@
+## Meta tags
+- id: "meta_title"
+  translation: "Andrés Ríos Tascón"
+- id: "meta_description"
+  translation: ""
+- id: "meta_keywords"
+  translation: "andrés, ríos, tascón, página personal, rse"
+- id: "meta_author"
+  translation: "Andrés Ríos Tascón"
+- id: "meta_image"
+  translation: ""
+
+## Header
+- id: "logo_alt"
+  translation: "Andrés Ríos Tascón"
+- id: "logo_text1"
+  translation: "Andrés"
+- id: "logo_text2"
+  translation: "RíosTasćon"
+
+## General
+- id: "skipToMainContent"
+  translation: "Saltar al contenido principal"
+- id: "toggle_navigation"
+  translation: "Mostrar navegación"
+
+## Footer
+- id: "footer_notice"
+  translation: "© Andrés Ríos Tascón"
+- id: "language"
+  translation: "Idioma"
+- id: "toggle_theme"
+  translation: "Seleccionar esquema de color"
+- id: "theme_light"
+  translation: "☀️ Claro"
+- id: "theme_dark"
+  translation: "🌑 Oscuro"
+- id: "theme_auto"
+  translation: "✨ Auto"
+
+## Homepage head title
+- id: "head_title"
+  translation: "Andrés Ríos Tascón"
+- id: "head_description"
+  translation: ""
+
+## Blog
+- id: "read_more"
+  translation: "Leer más"
+- id: "published_on"
+  translation: "Publicado el "
+- id: "continue_reading"
+  translation: "Continuar leyendo"
+
+## 404 Page
+- id: "404_title"
+  translation: "Página no encontrada"
+- id: "404_description"
+  translation: "Lo sentimos, pero la página que buscabas no pudo ser encontrada."
+- id: "404_button"
+  translation: "Volver al inicio"

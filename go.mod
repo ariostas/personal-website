@@ -1,10 +1,5 @@
-module github.com/wowchemy/starter-hugo-academic
+module github.com/ariostas/personal-website
 
-go 1.15
+go 1.24.4
 
-require (
-	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify v1.0.0 // indirect
-	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms v1.0.0 // indirect
-	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal v1.0.0 // indirect
-	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.7.1-0.20221002163318-39a618761acc // indirect
-)
+require github.com/zetxek/adritian-free-hugo-theme v1.7.31 // indirect

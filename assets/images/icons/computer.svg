@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" id="computer">
+  <defs>
+    <path id="a" d="M.06 64V.04H64V64z"></path>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="b" fill="#fff">
+      <use xlink:href="#a"></use>
+    </mask>
+    <path fill="#73BBA3" d="M64 32c0 17.673-14.327 32-32 32C14.327 64 0 49.673 0 32 0 14.327 14.327 0 32 0c17.673 0 32 14.327 32 32" mask="url(#b)"></path>
+    <path fill="#629986" d="M42 54H22a2 2 0 1 1 0-4h20a2 2 0 1 1 0 4"></path>
+    <path fill="#FFFFFE" d="M44 50a2 2 0 0 1-2 2H22a2 2 0 1 1 0-4h20a2 2 0 0 1 2 2"></path>
+    <path fill="#DEDECA" d="M37 42s-1 6 3 6H24c4 0 3-6 3-6h10"></path>
+    <path fill="#629986" d="M48 44H36.898c-.048-1.102.102-2 .102-2h11a4 4 0 0 0 4-4v2a4 4 0 0 1-4 4m-20.898 0H16a4 4 0 0 1-4-4V18v20a4 4 0 0 0 4 4h11s.15.898.102 2"></path>
+    <path fill="#B3B2A4" d="M36.898 44h-9.796c.048-1.102-.102-2-.102-2h10s-.15.898-.102 2"></path>
+    <path fill="#4C5665" d="M16 40.5a2.502 2.502 0 0 1-2.5-2.5V16c0-1.379 1.121-2.5 2.5-2.5h32c1.379 0 2.5 1.121 2.5 2.5v22c0 1.379-1.121 2.5-2.5 2.5H16"></path>
+    <path fill="#FFFFFE" d="M48 12H16a4 4 0 0 0-4 4v22a4 4 0 0 0 4 4h32a4 4 0 0 0 4-4V16a4 4 0 0 0-4-4m0 3c.551 0 1 .449 1 1v22c0 .551-.449 1-1 1H16c-.551 0-1-.449-1-1V16c0-.551.449-1 1-1h32"></path>
+    <path fill="#6D7683" d="M48 39h-7.303L26.894 15H48c.551 0 1 .449 1 1v22c0 .551-.449 1-1 1"></path>
+    <path fill="#FFFFFE" d="M50.001 39.879h-8.798L40.697 39H48c.551 0 1-.449 1-1V16c0-.551-.449-1-1-1H26.894l-.644-1.12h23.751v25.999"></path>
+  </g>
+</svg>
