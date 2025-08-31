@@ -1,7 +1,7 @@
 baseURL = "https://ariostas.com/"
 title = "Andres Rios Tascon"
 languageCode = "en"
-defaultContentLanguage = 'en'
+defaultContentLanguage = "en"
 
 # Exclude footer section from generating list pages (index.html and index.xml)
 [outputs]
@@ -128,7 +128,7 @@ weight = 0
 [languages.en.menus]
 [[languages.en.menus.header]]
 name = "Home"
-URL = "/"
+URL = '/#'
 weight = 1
 [[languages.en.menus.header]]
 name = 'Experience'
@@ -145,7 +145,7 @@ weight = 4
 
 # [[languages.en.menus.footer]]
 # name = "Home"
-# URL = "/"
+# URL = '/#'
 # weight = 1
 # [[languages.en.menus.footer]]
 # name = "Experience"
@@ -170,7 +170,7 @@ title = ''
 weight = 1
 [[languages.es.menus.header]]
 name = "Inicio"
-URL = "/es/"
+URL = '/es/#'
 weight = 1
 [[languages.es.menus.header]]
 name = 'Experiencia'
@@ -197,7 +197,7 @@ weight = 2
 [languages.jp.menus]
 [[languages.jp.menus.header]]
 name = "ホーム"
-URL = "/jp/"
+URL = '/jp/#'
 weight = 1
 [[languages.jp.menus.header]]
 name = '職務経歴'
