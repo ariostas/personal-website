@@ -128,36 +128,36 @@ weight = 0
 [languages.en.menus]
 [[languages.en.menus.header]]
 name = "Home"
-URL = "/en/"
+URL = "/"
 weight = 1
 [[languages.en.menus.header]]
 name = 'Experience'
-URL = '/en/#experience'
+URL = '/#experience'
 weight = 2
 [[languages.en.menus.header]]
 name = 'Portfolio'
-URL = '/en/#projects'
+URL = '/#projects'
 weight = 3
 [[languages.en.menus.header]]
 name = 'Contact'
-URL = '/en/#contact'
+URL = '/#contact'
 weight = 4
 
 # [[languages.en.menus.footer]]
 # name = "Home"
-# URL = "/en/"
+# URL = "/"
 # weight = 1
 # [[languages.en.menus.footer]]
 # name = "Experience"
-# URL = "/en/#experience"
+# URL = "/#experience"
 # weight = 2
 # [[languages.en.menus.footer]]
 # name = "Portfolio"
-# URL = "/en/#projects"
+# URL = "/#projects"
 # weight = 3
 # [[languages.en.menus.footer]]
 # name = "Contact"
-# URL = "/en/#contact"
+# URL = "/#contact"
 # weight = 4
 
 
@@ -178,7 +178,7 @@ URL = '/es/#experience'
 weight = 2
 [[languages.es.menus.header]]
 name = 'Portafolio'
-URL = '/es/#portfolio'
+URL = '/es/#projects'
 weight = 3
 [[languages.es.menus.header]]
 name = 'Contacto'
@@ -205,7 +205,7 @@ URL = '#experience'
 weight = 2
 [[languages.jp.menus.header]]
 name = 'ポートフォリオ'
-URL = '/jp/#portfolio'
+URL = '/jp/#projects'
 weight = 3
 [[languages.jp.menus.header]]
 name = 'お問い合わせ'
