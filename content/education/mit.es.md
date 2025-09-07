@@ -5,6 +5,6 @@ draft: false # set to "true" if you want to hide the content
 
 university: "Instituto Tecnológico de Massachusetts"
 year: "2013-2017"
-degree: "Licenciatura en Física, Licenciatura en Matemáticas"
+degree: "Pregrado en Física, Pregrado en Matemáticas"
 
 ---

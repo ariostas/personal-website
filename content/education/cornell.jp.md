@@ -5,6 +5,6 @@ draft: false # set to "true" if you want to hide the content
 
 university: "コーネル大学"
 year: "2017年〜2023年"
-degree: "物理学の博士号"
+degree: "物理学の博士号、物理学の修士号"
 
 ---
