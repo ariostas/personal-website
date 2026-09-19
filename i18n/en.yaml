@@ -43,7 +43,7 @@
 - id: "head_title"
   translation: "Andres Rios Tascon"
 - id: "head_description"
-  translation: ""
+  translation: "Andres Rios Tascon is a Research Software Engineer at Princeton University with IRIS-HEP, developing software for high energy physics."
 
 ## Blog
 - id: "read_more"

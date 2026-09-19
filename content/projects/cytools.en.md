@@ -17,4 +17,4 @@ params:
 ## The content is used for the description of the project
 ---
 
-CYTools is a Python package that I co-created during my PhD. It alows the study of Calabi-Yau manifolds arising from the Kreuzer-Skarke database, which in turn produce solutions to string theory. It emerged from several years of effort towards exploring more complex solutions, and automating the process of looking for interesting features. It offers vastly superior computational performance compared to previously-existing tools, which allowed the study of solutions that were previously thought to be inaccessible.
+CYTools is a Python package that I co-created during my PhD. It allows the study of Calabi-Yau manifolds arising from the Kreuzer-Skarke database, which serve as compactification spaces in string theory. It emerged from several years of effort towards exploring more complex solutions, and automating the process of looking for interesting features. It offers vastly superior computational performance compared to previously existing tools, which allowed the study of solutions that were previously thought to be inaccessible.

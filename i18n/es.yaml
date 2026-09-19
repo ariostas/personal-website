@@ -16,7 +16,7 @@
 - id: "logo_text1"
   translation: "Andrés"
 - id: "logo_text2"
-  translation: "RíosTasćon"
+  translation: "RíosTascón"
 
 ## General
 - id: "skipToMainContent"
@@ -42,7 +42,7 @@
 - id: "head_title"
   translation: "Andrés Ríos Tascón"
 - id: "head_description"
-  translation: ""
+  translation: "Andrés Ríos Tascón es Ingeniero de Software para Investigación en la Universidad de Princeton con IRIS-HEP, donde desarrolla software para física de altas energías."
 
 ## Blog
 - id: "read_more"

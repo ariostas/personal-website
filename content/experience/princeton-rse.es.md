@@ -5,7 +5,7 @@ title: ""
 jobTitle: "Ingeniero de Software para Investigación"
 company: "Universidad de Princeton"
 location: "Princeton, NJ"
-duration: "2023–presente"
+duration: "2023-presente"
 companyLogo: "images/logos/princeton_seal.png"
 
 ---

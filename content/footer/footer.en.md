@@ -13,7 +13,7 @@ draft = false
     contact_form_phone="Your phone (optional)"
     contact_button="Send message"
     contact_phone_title="My phone"
-    contact_phone_number="<a href='tel:+1 (617)682-0496'>(617) 682-0496</a>"
+    contact_phone_number="<a href='tel:+16176820496'>(617) 682-0496</a>"
     contact_email_title="My e-mail"
     contact_email_email="<a href='mailto:contact@ariostas.com'>contact@ariostas.com</a>"
     contact_address_title="My location"

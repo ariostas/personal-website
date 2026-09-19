@@ -34,6 +34,6 @@ draft = false
     title="学歴" >}}
 
 {{< client-and-work-section
-    title="私の作品のセレクション"
+    title="主なプロジェクト"
     sectionId="projects"
     >}}

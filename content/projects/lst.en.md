@@ -18,4 +18,4 @@ params:
 ## The content is used for the description of the project
 ---
 
-The Line Segment Tracking (LST) algorithm is a novel approach for particle track reconstruction. It exploits the massively parallel architecture of GPUs to efficiently reconstruct particle tracks in high pile-up conditions. It arised due to the expected increase in reconstruction complexity from future collider experiments, and the potential limitations of CPU resources.
+The Line Segment Tracking (LST) algorithm is a novel approach for particle track reconstruction. It exploits the massively parallel architecture of GPUs to efficiently reconstruct particle tracks in high pile-up conditions. It arose from the expected increase in reconstruction complexity from future collider experiments, and the potential limitations of CPU resources.

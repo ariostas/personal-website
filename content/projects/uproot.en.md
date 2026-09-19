@@ -18,4 +18,4 @@ params:
 ## The content is used for the description of the project
 ---
 
-Uproot is a Python library for reading and writing ROOT files in pure Python. ROOT has been the standard file format for data in High Energy Physics, and there is currently over 2 exabytes of data in ROOT files. Historically, ROOT has been difficult to install, so Uproot emerged as a light-weight alternative that allows researchers to read and write data in Python. It is part of the Scikit-HEP ecosystem of packages, which provides a wide array of tools for data analysis.
+Uproot is a Python library for reading and writing ROOT files in pure Python. ROOT has been the standard file format for data in High Energy Physics, and there are currently over 2 exabytes of data in ROOT files. Historically, ROOT has been difficult to install, so Uproot emerged as a lightweight alternative that allows researchers to read and write data in Python. It is part of the Scikit-HEP ecosystem of packages, which provides a wide array of tools for data analysis.
