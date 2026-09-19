@@ -30,7 +30,7 @@ jobs:
           submodules: recursive
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
@@ -40,7 +40,7 @@ jobs:
           npm install
           hugo --minify
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         with:
           path: ./public/en
 
@@ -53,7 +53,7 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
 
   # The Spanish and Japanese sites are deployed from mirror repos with their
   # own domains. Trigger them so all three stay in sync with this commit.
