@@ -13,10 +13,6 @@
 ## Header
 - id: "logo_alt"
   translation: "Andrés Ríos Tascón"
-- id: "logo_text1"
-  translation: "Andrés"
-- id: "logo_text2"
-  translation: "RíosTascón"
 
 ## General
 - id: "skipToMainContent"

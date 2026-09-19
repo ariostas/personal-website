@@ -14,10 +14,6 @@
 
 - id: "logo_alt"
   translation: "Andres Rios Tascon"
-- id: "logo_text1"
-  translation: "Andres"
-- id: "logo_text2"
-  translation: "RiosTascon"
 
 ## General
 - id: "skipToMainContent"

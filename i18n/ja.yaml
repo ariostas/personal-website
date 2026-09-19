@@ -13,10 +13,6 @@
 ## Header
 - id: "logo_alt"
   translation: "リオスタスコン・アンドレス"
-- id: "logo_text1"
-  translation: "リオスタスコン"
-- id: "logo_text2"
-  translation: "アンドレス"
 
 ## General
 - id: "skipToMainContent"
