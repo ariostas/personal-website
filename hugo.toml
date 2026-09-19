@@ -84,6 +84,7 @@ mobileHeader = false
 
 [languages]
 [languages.en]
+baseURL = 'https://ariostas.com/'
 disabled = false
 locale = 'en'
 direction = 'ltr'
@@ -115,6 +116,7 @@ weight = 4
 
 
 [languages.es]
+baseURL = 'https://xn--andrs-esa.com.co/'
 disabled = false
 locale = 'es'
 direction = 'ltr'
@@ -127,23 +129,24 @@ logo_text1 = 'Andrés'
 logo_text2 = 'RíosTascón'
 [[languages.es.menus.header]]
 name = "Inicio"
-URL = '/es/#'
+URL = '/#'
 weight = 1
 [[languages.es.menus.header]]
 name = 'Experiencia'
-URL = '/es/#experience'
+URL = '/#experience'
 weight = 2
 [[languages.es.menus.header]]
 name = 'Portafolio'
-URL = '/es/#projects'
+URL = '/#projects'
 weight = 3
 [[languages.es.menus.header]]
 name = 'Contacto'
-URL = '/es/#contact'
+URL = '/#contact'
 weight = 4
 
 
 [languages.ja]
+baseURL = 'https://xn--cck3b4b9h7a.com/'
 disabled = false
 locale = 'ja'
 direction = 'ltr'
@@ -158,19 +161,19 @@ logo_text2 = 'アンドレス'
 [languages.ja.menus]
 [[languages.ja.menus.header]]
 name = "ホーム"
-URL = '/ja/#'
+URL = '/#'
 weight = 1
 [[languages.ja.menus.header]]
 name = '職務経歴'
-URL = '/ja/#experience'
+URL = '/#experience'
 weight = 2
 [[languages.ja.menus.header]]
 name = 'ポートフォリオ'
-URL = '/ja/#projects'
+URL = '/#projects'
 weight = 3
 [[languages.ja.menus.header]]
 name = 'お問い合わせ'
-URL = '/ja/#contact'
+URL = '/#contact'
 weight = 4
 
 
