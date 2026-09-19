@@ -61,6 +61,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: deploy
     strategy:
+      fail-fast: false
       matrix:
         repo: [personal-website-es, personal-website-ja]
     steps:
@@ -72,4 +73,6 @@ jobs:
             echo "::error::MIRROR_DISPATCH_TOKEN secret is not set"
             exit 1
           fi
-          gh workflow run hugo.yml -R "ariostas/${{ matrix.repo }}" -f ref="${{ github.sha }}"
+          gh api --method POST \
+            "repos/ariostas/${{ matrix.repo }}/actions/workflows/hugo.yml/dispatches" \
+            -f ref=main -f "inputs[ref]=${{ github.sha }}"
